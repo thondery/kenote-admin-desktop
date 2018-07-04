@@ -1,1 +1,3 @@
-# kenote-admin-desktop
+# Kenote Admin Desktop App
+
+Use Electron to create desktop app.
